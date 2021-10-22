@@ -92,3 +92,4 @@ vnoremap <A-k> :m '<-2<CR>gv=gv
 " source $HOME/.config/nvim/vim-plug/nvim-tree.vim  " File Explorer
 source $HOME/.config/nvim/vim-plug/nerdtree.vim
 source $HOME/.config/nvim/vim-plug/coc-nvim.vim
+source $HOME/.config/nvim/vim-plug/fzf.vim
